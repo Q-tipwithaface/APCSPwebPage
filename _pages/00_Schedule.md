@@ -7,9 +7,9 @@ categories: [Week 2]
 
 ## Work Schedule
 
-This is a table that includes each of my posts and notebooks for each week. As of now, I have Week 0, Week 1, and Week 2.
+This is a table that shows the Schedule of posts/notebooks from past weeks. More Weeks will be added as more time and progess does on.
 
 | Week # |  |  |
-| 0 | [First Blog Post](https://ryanhaki.github.io/APCSPwebPage/markdown/week_0/2022/08/22/My-First-post.html) | [First Jupyter Notebook Post](https://ryanhaki.github.io/APCSPwebPage/week_0/2022/08/22/first-notebook.html) |
-| 1 | [Python Quiz Post](https://ryanhaki.github.io/APCSPwebPage/week_1/2022/08/26/Python-Quiz.html) | [Bash Kernel Post](https://ryanhaki.github.io/APCSPwebPage/2022/09/02/bashnotebook.html) |
-| 2 | [Python Lists and Dictionaries Post](https://ryanhaki.github.io/APCSPwebPage/week_2/2022/08/29/python_lists.html) | [HTML Hack Screenshots](https://ryanhaki.github.io/APCSPwebPage/week_2/2022/09/03/Theme.html) |
+| 0 | [First Post on Fastpage](https://q-tipwithaface.github.io/Q-tip/2022/08/21/Lucas-First-Post.html) | [First Jupyter Notebook ](https://q-tipwithaface.github.io/Q-tip/fastpages/jupyter/python/2022/08/21/Lucas-First-Notebook-v2.html) |
+| 1 | [First Python Quiz](https://q-tipwithaface.github.io/Q-tip/2022/08/28/python_quiz.html) | [Image Test](https://q-tipwithaface.github.io/Q-tip/markdown/2022/08/29/postwithimage.html) |
+| 2 | [HTML Hack Screenshots](https://q-tipwithaface.github.io/Q-tip/2022/09/02/Screenshot-of-temporarily-remote-theme.html) |  | |
